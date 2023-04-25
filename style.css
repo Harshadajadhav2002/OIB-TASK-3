@@ -1,0 +1,15 @@
+body {
+  background-color: #bd8b8b;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #281e1e;
+  color: #ece9e9;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
